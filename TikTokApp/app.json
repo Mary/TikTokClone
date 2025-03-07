@@ -17,12 +17,14 @@
     },
     "android": {
       "permissions": [
+        "INTERNET",
         "INTERNET"
       ],
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.anonymous.TikTokApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
